@@ -1,3 +1,3 @@
-export const func = ()=>{
+export const func2 = ()=>{
     console.log(123)
 }
